@@ -6,14 +6,16 @@ Systems Engineer transitioning from 15+ years of operational leadership to low-l
 ### 🚀 Featured Projects
 **[Safety-Critical Multithreaded Watchdog](https://github.com/ashishaggrawal/Safety-Watchdog)** — C++20 real-time monitor using SCHED_FIFO and lock-free atomics. Triggers an emergency stop if the main process misses a 500ms heartbeat.
 
-**[Lock-Free Concurrent Queue](https://github.com/ashishaggrawal/Custom-C-Memory-Allocator-Simulator)** — C implementation of the Michael & Scott algorithm. Validated across 32+ threads with 190+ automated tests.
+**[Lock-Free Concurrent Queue](https://github.com/ashishaggrawal/Lock-Free-Queue-Implementation-and-Performance-Analysis)** — C implementation of the Michael & Scott algorithm. Validated across 32+ threads with 190+ automated tests.
 
 **[Multi-Type Financial Fraud Detector](https://github.com/ashishaggrawal/Fraud-Detection)** — Python fraud detection system using an Isolation Forest model, with a Streamlit dashboard for real-time review.
+
+**Interview Prep** — [Python-coding](https://github.com/ashishaggrawal/Python-coding): 30 data structures & algorithms problems with written explanations and complexity analysis, plus 40+ fundamentals problems, also solved in [C](https://github.com/ashishaggrawal/C-Programming).
 
 ---
 
 ### 🎓 Current Journey
-Pursuing a BSc (Honours) in Computer Science at Trent University (Dean's Honour Roll), graduating April 2027. Currently building a C++20 limit order book and benchmarking it for latency, alongside deep coursework in systems programming and real-time scheduling.
+Pursuing a BSc (Honours) in Computer Science at Trent University (Dean's Honour Roll), graduating April 2027. Currently building a C++20 limit order book and benchmarking it for latency (repository coming soon), alongside deep coursework in systems programming and real-time scheduling.
 
 ---
 
@@ -45,17 +47,11 @@ Pursuing a BSc (Honours) in Computer Science at Trent University (Dean's Honour 
 ---
 
 ### 🧮 Mathematics
-**Linear Algebra** — Matrix operations, eigenvalues, eigenvectors, transformations
-
-**Discrete Math** — Logic, set theory, graph theory, combinatorics
-
-**Calculus** — Differentiation, integration, multivariable calculus
-
-**Statistics & Probability** — Hypothesis testing, distributions, Bayes' theorem
+Linear algebra · Discrete math · Multivariable calculus · Statistics & probability
 
 ---
 
 ### 🤝 Connect
 Open to systems and performance engineering roles.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](INSERT_YOUR_LINKEDIN_URL_HERE)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashishaggrawal)
